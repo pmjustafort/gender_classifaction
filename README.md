@@ -1,6 +1,7 @@
 # Tweet Gender Predictor
 
-![person-holding-mobile-phone-analyzing-twitter-graph]
+![person-holding-mobile-phone-analyzing-twitter-graph](https://github.com/pmjustafort/gender_classifaction/assets/137816262/86cea96b-4d7f-4d34-a210-b006af7d377e)
+
 
 ## Table of Contents
 - [Overview](#Overview)
