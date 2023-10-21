@@ -1,6 +1,6 @@
 # Tweet Gender Predictor
 
-
+![person-holding-mobile-phone-analyzing-twitter-graph]
 
 ## Table of Contents
 - [Overview](#Overview)
