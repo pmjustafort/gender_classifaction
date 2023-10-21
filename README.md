@@ -1,21 +1,21 @@
 # Tweet Gender Predictor
 
 ## Table of Contents
-Overview
+- [Overview](#Overview)
 
-Usage
+- [Usage](#Usage)
 
-Data
+- [Data](#Data)
 
-Models Tested
+- [Models Tested](#MOdelsTested)
 
-Results
+- [Results](#Results)
 
-Limitations
+- [Limitations](#Limitations)
 
-Contributing
+- [Contributing](#Contribuiting)
 
-License
+- [License](#License)
 
 
 ## Overview
