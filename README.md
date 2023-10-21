@@ -2,12 +2,19 @@
 
 ## Table of Contents
 Overview
+
 Usage
+
 Data
+
 Models Tested
+
 Results
+
 Limitations
+
 Contributing
+
 License
 
 
